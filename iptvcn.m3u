@@ -1,0 +1,150 @@
+#EXTM3U
+#EXTINF:-1,江苏高码8mCCTV1
+http://223.110.244.212:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+#EXTINF:-1 ,CCTV1综合SD
+http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV-1HD综合
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 ,CCTV2财经SD
+http://111.11.121.184:6610/030000001001/cctv-2/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV2财经HD
+http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+#EXTINF:-1 ,CCTV3综艺HD
+http://111.11.121.184:6610/030000001001/cctv-3/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV3综艺SD
+http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv3/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV4中文国际SD
+http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,CCTV-4中文国际hd
+http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226191/index.m3u8
+#EXTINF:-1,CCTV-5 体育hd
+http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1,CCTV-5+体育赛事
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny3EAqj2bGzpUW6eHup%2FdHL4x8PpSxemwYTez3Gx7GrEpg%3D%3D%3A20180910184822%2C60D21CD359DA%2C124.129.96.17%2C20180910184822%2C10000100000000050000000002171713%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV6",CCTV6电影
+http://117.148.179.165/PLTV/88888888/224/3221231724/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV6",CCTV6电影
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8
+#EXTINF:-1 ,CCTV7军事SD
+http://111.11.121.184:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,CCTV-7军事HD
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny0wKnqbGkjZodZal1IiLBKR1ZeoFgHeni5wOoJ8kZsQKg%3D%3D%3A20180910185901%2C60D21CD359DA%2C124.129.96.17%2C20180910185901%2C10000100000000050000000002172002%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 ,CCTV8电视剧HD
+http://111.11.121.184:6610/030000001001/cctv-8/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV8电视剧sd
+http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv8/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV9纪录片sd
+http://111.11.121.184:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV10
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 ,CCTV10科教HD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 ,CCTV11戏剧
+http://111.11.121.184:6610/030000001001/cctv-11/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV11戏剧HD
+http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+#EXTINF:-1 ,CCTV12社会与法SD
+http://111.11.121.184:6610/030000001001/cctv-12/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,CCTV12HD社会与法
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny0jVHlZn4ifGkFfWu%2Fcv10tY0KdrL2TBZvvvXEjK5i1ug%3D%3D%3A20180910190044%2C60D21CD359DA%2C124.129.96.17%2C20180910190044%2C10000100000000050000000002171826%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1,CCTV12社会与法
+http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 ,CCTV13新闻SD
+http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,CCTV13HD
+http://223.110.230.17:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ/
+#EXTINF:-1,CCTV13HD
+http://223.110.254.137:6610/cntv/live1/cctv-13/cctv-13.m3u8
+#EXTINF:-1 ,CCTV14少儿SD
+http://111.11.121.184:6610/030000001001/cctv-14/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV14HD少儿
+http://39.134.19.18/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 ,CCTV15音乐HD
+http://111.11.121.184:6610/030000001001/cctv-15/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV16HD奥林匹克
+http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV16 4K 50FPS
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 ,CCTV17农业农村HD
+http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1,CCTV-4K UHD HDR
+http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+#EXTINF:-1 ,CCTV-8K冬奥专题
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
+#EXTINF:-1 ,CGTN 英语
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,CGTN 阿语عربية
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 ,CGTN 纪录片Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 ,CGTN 西语Español
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 ,CGTN 法语Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 ,CGTN 俄语Русский 
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 ,CCTV+ Channel 1
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+#EXTINF:-1 ,CCTV+ Channel 2
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+#EXTINF:-1 group-title="央视",中国教育1HD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视",中国教育2
+http://ott.js.chinamobile.com/PLTV/4/224/3221225850/index.m3u8
+#EXTINF:-1 group-title="央视",中国教育3
+http://ott.js.chinamobile.com/PLTV/4/224/3221227018/index.m3u8
+#EXTINF:-1 group-title="央视",中国教育4
+http://ott.js.chinamobile.com/PLTV/4/224/3221227657/index.m3u8
+#EXTINF:-1 ,+++++++++++++北京源++++++++++++++++++
+http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[高清]央视", CCTV-1[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="[高清]央视", CCTV-2[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny03lPQqzzaPom58NeiSUcIEpHb2JZvMEi7Y3xwc0BSosA%3D%3D%3A20180910182829%2C60D21CD359DA%2C124.129.96.17%2C20180910182829%2C10000100000000050000000002171859%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="[高清]央视", CCTV-5+[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny3EAqj2bGzpUW6eHup%2FdHL4x8PpSxemwYTez3Gx7GrEpg%3D%3D%3A20180910184822%2C60D21CD359DA%2C124.129.96.17%2C20180910184822%2C10000100000000050000000002171713%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="[高清]央视", CCTV-7[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny0wKnqbGkjZodZal1IiLBKR1ZeoFgHeni5wOoJ8kZsQKg%3D%3D%3A20180910185901%2C60D21CD359DA%2C124.129.96.17%2C20180910185901%2C10000100000000050000000002172002%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="[高清]央视", CCTV-9[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny2o85Tfekvi9PW6GpI70sFkO0vo6Wr%2BbLKRbaAb1%2FZMhg%3D%3D%3A20180910185923%2C60D21CD359DA%2C124.129.96.17%2C20180910185923%2C10000100000000050000000002172008%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="[高清]央视", CCTV-10[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny2UEzzFtvtKtb2nEcpEZbtyjOuh049MhnD3iaFOzciywQ%3D%3D%3A20180910185946%2C60D21CD359DA%2C124.129.96.17%2C20180910185946%2C10000100000000050000000002171820%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="[高清]央视", CCTV-11[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225869/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1TSWhBqg%2B%2BYI4EoOwcwjcSK0Velmj0doirpUDm8UN8Dw%3D%3D%3A20180910190024%2C60D21CD359DA%2C124.129.96.17%2C20180910190024%2C10000100000000050000000000544133%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="[高清]央视", CCTV-12[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny0jVHlZn4ifGkFfWu%2Fcv10tY0KdrL2TBZvvvXEjK5i1ug%3D%3D%3A20180910190044%2C60D21CD359DA%2C124.129.96.17%2C20180910190044%2C10000100000000050000000002171826%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[高清]央视;少儿", CCTV-14[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=ZwCOJns1uzKzHdCSyzLSm8nvO5XfklxU4ALE11OYlPn7KpiO%2BzRtPvdn7jWr%2BUvOl1t5Pz%2FLH0Ho4jRubNvlOAEwaDznuKUPkC3CyyjdipD9NSckJ5QaXY%2FFPOezuTl8D5AnXvGX46kQgpi8snSsXg%3D%3D%3A20190105211308%2C60D21C462F29%2C27.223.154.121%2C20190105211308%2C10000100000000050000000002171849%2CBF70B40FF21E322FB193AF5C0F75666F%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="[高清]央视", CCTV-15[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny2aQb%2FEvmX3jJwWQM0KjVthBxMATFvLDs6nqWhqKaSn0A%3D%3D%3A20180910190144%2C60D21CD359DA%2C124.129.96.17%2C20180910190144%2C10000100000000050000000000544555%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1, 北京卫视[高清
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKdrA6O5TqC3oQgciLHCN+f7jdqT/Yq9bJ5ojBI5xjj1XA==,,END
+#EXTINF:-1,北京新闻[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKe/K/f3kM7vVAVZijl4iyoDNXkzi+WZQiMHs7tmfGVYQg==,,END
+#EXTINF:-1, 北京文艺[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcvHqOmtn/hgQoKLE9+7Ay2N6D1ko3Yx6/syfV3AyuDrw==,,END
+#EXTINF:-1, 卡酷少儿[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcZU6zpMnBRj8F5x1e65FnY33yNhKtBp1tUOIOoQaZW2g==,,END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京;少儿", 黑莓动画[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=Wz9PzXqiHTPm9nnfBNN9qYnjFx%2FlYchqhY7S6bSpOL2PtEbjPb9jhieBCtTUAr9dNpJ%2B3fKalNYfmH%2BEaYo8Rb1B0UFe79pybuMPoFbNny31VyCEXm3rWPAI290gZZpDfDQqOgmokKjty183mZr2VA%3D%3D%3A20180916203336%2C60D21CD359DA%2C124.129.68.31%2C20180916203336%2C10000100000000050000000000544179%2C6FC99DF6C0A5162BBF2A8A4B2D2DCDC7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV萌宠[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKfR3oacAPg354elzcInzXj3W4a7qNuLPwz5uQNQKuvw0w==,,END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV淘BABY[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV淘电影[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND&RTS=1601794352&from=6&popid=6&hms_devid=3661&prioritypopid=6&vqe=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV淘电影[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV淘剧场[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV淘娱乐[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV 4K超高清[高清]
+#EXTINF:-1 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中国央视", CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中国央视", CHC家庭电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国央视", CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
